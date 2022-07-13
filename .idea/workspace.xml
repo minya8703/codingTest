@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0958bb81-19eb-4d71-9936-e2f2e521c6fa" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P11720_220711.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P11720_220711_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p01546_220711.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p01546_220711_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test2_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timeComplexityExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test2_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test2_01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,14 +57,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.test2_01">
-    <configuration name="P11720_220711" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P11720_220711" />
-      <module name="codingTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.test2_02">
     <configuration name="P11720_220711_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P11720_220711_2" />
       <module name="codingTest" />
@@ -107,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test2_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2_02" />
+      <module name="codingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.test2_02" />
         <item itemvalue="애플리케이션.test2_01" />
         <item itemvalue="애플리케이션.p01546_220711_2" />
         <item itemvalue="애플리케이션.p01546_220711" />
         <item itemvalue="애플리케이션.P11720_220711_2" />
-        <item itemvalue="애플리케이션.P11720_220711" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +115,7 @@
       <workItem from="1657086826370" duration="14506000" />
       <workItem from="1657248009961" duration="1199000" />
       <workItem from="1657514851485" duration="11609000" />
-      <workItem from="1657725608609" duration="2632000" />
+      <workItem from="1657725608609" duration="5289000" />
     </task>
     <servers />
   </component>
