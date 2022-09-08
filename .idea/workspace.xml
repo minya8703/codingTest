@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0958bb81-19eb-4d71-9936-e2f2e521c6fa" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test2_02.java" afterDir="false" />
+    <list default="true" id="0958bb81-19eb-4d71-9936-e2f2e521c6fa" name="변경" comment="Do It chap02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test2_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test2_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doit/chap02/ArrayEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/ArrayEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doit/chap02/CardConvRev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/CardConvRev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doit/chap02/CloneArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/CloneArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doit/chap02/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/IntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doit/chap02/IntArrayInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/IntArrayInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doit/chap02/MaxOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/MaxOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doit/chap02/MaxOfarrayRand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/MaxOfarrayRand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doit/chap02/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/약수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/약수의합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/없는숫자더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/없는숫자더하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/완주하지못한선수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/완주하지못한선수.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +29,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +47,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2BWnd8BDZMkQusPwSUBUGAWBRna" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,6 +59,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -57,37 +73,74 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.test2_02">
-    <configuration name="P11720_220711_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P11720_220711_2" />
+  <component name="RunManager" selected="애플리케이션.ReverseArray">
+    <configuration name="ArrayEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doit.chap02.ArrayEqual" />
       <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doit.chap02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p01546_220711" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01546_220711" />
+    <configuration name="CardConvRev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doit.chap02.CardConvRev" />
       <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doit.chap02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p01546_220711_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01546_220711_2" />
+    <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doit.chap02.CloneArray" />
       <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doit.chap02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test2_01" />
+    <configuration name="MaxOfarrayRand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doit.chap02.MaxOfarrayRand" />
       <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doit.chap02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test2_02" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doit.chap02.ReverseArray" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doit.chap02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="약수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="약수의합" />
       <module name="codingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.test2_02" />
-        <item itemvalue="애플리케이션.test2_01" />
-        <item itemvalue="애플리케이션.p01546_220711_2" />
-        <item itemvalue="애플리케이션.p01546_220711" />
-        <item itemvalue="애플리케이션.P11720_220711_2" />
+        <item itemvalue="애플리케이션.ReverseArray" />
+        <item itemvalue="애플리케이션.CloneArray" />
+        <item itemvalue="애플리케이션.CardConvRev" />
+        <item itemvalue="애플리케이션.ArrayEqual" />
+        <item itemvalue="애플리케이션.MaxOfarrayRand" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +168,15 @@
       <workItem from="1657086826370" duration="14506000" />
       <workItem from="1657248009961" duration="1199000" />
       <workItem from="1657514851485" duration="11609000" />
-      <workItem from="1657725608609" duration="5289000" />
+      <workItem from="1657725608609" duration="5582000" />
+      <workItem from="1658729491594" duration="9262000" />
+      <workItem from="1659772717381" duration="37000" />
+      <workItem from="1661751979845" duration="6000" />
+      <workItem from="1662023270950" duration="611000" />
+      <workItem from="1662538990413" duration="19520000" />
+      <workItem from="1662611262596" duration="3361000" />
+      <workItem from="1662614948561" duration="1175000" />
+      <workItem from="1662619407182" duration="310000" />
     </task>
     <servers />
   </component>
@@ -132,5 +193,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Do It chap02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do It chap02" />
   </component>
 </project>
