@@ -5,18 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0958bb81-19eb-4d71-9936-e2f2e521c6fa" name="변경" comment="Do It chap02">
+      <change afterPath="$PROJECT_DIR$/src/doit/chap02/ArraySumForIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doit/chap02/DayOfYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doit/chap02/Int2Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doit/chap02/PhysicalExamination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doit/chap02/PrimeNumber1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doit/chap02/PrimeNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doit/chap02/PrimeNumber3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doit/chap02/ArrayEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/ArrayEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doit/chap02/CardConvRev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/CardConvRev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doit/chap02/CloneArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/CloneArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doit/chap02/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/IntArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doit/chap02/IntArrayInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/IntArrayInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doit/chap02/MaxOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/MaxOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doit/chap02/MaxOfarrayRand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/MaxOfarrayRand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doit/chap02/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doit/chap02/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/약수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/약수의합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/없는숫자더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/없는숫자더하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/완주하지못한선수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/완주하지못한선수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/P11720_220711.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/P11720_220711.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/P11720_220711_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/P11720_220711_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/p01546_220711.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/p01546_220711.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/p01546_220711_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/p01546_220711_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_04_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_04_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_04_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_04_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_04_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_04_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test1_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test1_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test2_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test2_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/test2_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/test2_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTest/timeComplexityExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTest/timeComplexityExample1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,26 +75,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ReverseArray">
-    <configuration name="ArrayEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="doit.chap02.ArrayEqual" />
+  <component name="RunManager" selected="Application.ArraySumForIn">
+    <configuration name="ArraySumForIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doit.chap02.ArraySumForIn" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CardConvRev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="doit.chap02.CardConvRev" />
+    <configuration name="DayOfYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doit.chap02.DayOfYear" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="doit.chap02.CloneArray" />
+    <configuration name="Int2Darray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doit.chap02.Int2Darray" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxOfarrayRand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="doit.chap02.MaxOfarrayRand" />
+    <configuration name="PrimeNumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doit.chap02.PrimeNumber1" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
@@ -139,20 +154,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="약수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="약수의합" />
-      <module name="codingTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ReverseArray" />
-        <item itemvalue="애플리케이션.CloneArray" />
-        <item itemvalue="애플리케이션.CardConvRev" />
-        <item itemvalue="애플리케이션.ArrayEqual" />
-        <item itemvalue="애플리케이션.MaxOfarrayRand" />
+        <item itemvalue="Application.ArraySumForIn" />
+        <item itemvalue="Application.DayOfYear" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +182,10 @@
       <workItem from="1662611262596" duration="3361000" />
       <workItem from="1662614948561" duration="1175000" />
       <workItem from="1662619407182" duration="310000" />
+      <workItem from="1662724308125" duration="7919000" />
+      <workItem from="1662734221725" duration="175000" />
+      <workItem from="1662734419280" duration="227000" />
+      <workItem from="1662734668414" duration="4508000" />
     </task>
     <servers />
   </component>
@@ -197,5 +206,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Do It chap02" />
     <option name="LAST_COMMIT_MESSAGE" value="Do It chap02" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/doit/chap02/PrimeNumber1.java</url>
+          <line>3</line>
+          <properties class="doit.chap02.PrimeNumber1" method="mian">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/doit/chap02/DayOfYear.java</url>
+          <line>15</line>
+          <properties class="doit.chap02.DayOfYear" method="dayOfYear">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
