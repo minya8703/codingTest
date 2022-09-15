@@ -1,5 +1,10 @@
 import java.util.HashMap;
-
+/*
+- 자료구조/알고리즘: HashMap
+- 시간 복잡도 : O(n)
+- 공간 복잡도 : O(n)
+- 소요 시간: 15분
+*/
 public class 완주하지못한선수 {
     public static void main(String[] args) {
         String[] participant = {"mislav", "stanko", "mislav", "ana"};
